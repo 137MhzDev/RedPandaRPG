@@ -47,6 +47,7 @@ All content, including graphics, design, and code, in the Game is the property o
 - The Game is provided on an "as is" and "as available" basis. We do not guarantee uninterrupted or error-free operation of the Game.
 - We expressly disclaim all warranties, whether express or implied, including warranties of merchantability, fitness for a particular purpose, and non-infringement.
 - In no event shall we be liable for any direct, indirect, incidental, special, or consequential damages arising out of your use of, or inability to use, the Game.
+- We reserve the right to change the balance, game mechanics and all details of the in-game process at our sole discretion without prior notice or consultation with users. By playing the Game and/or making in-game purchases, you acknowledge and agree that the Game may change, either partially or completely, and that any funds spent on in-game purchases are non-refundable due to such changes.
 
 ---
 
