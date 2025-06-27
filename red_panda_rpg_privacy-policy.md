@@ -1,5 +1,5 @@
 # Privacy Policy for Red Panda: RPG
-**Effective Date:** APRIL 20th, 2025
+**Effective Date:** JUNE 27th, 2025
 
 ---
 
@@ -21,16 +21,19 @@ By accessing or using our Products, you agree to the collection and use of your 
 
 ## 4. What Personal Data We Collect
 We may collect the following types of Personal Data:
+
 - **Account Data:** Such as your username, email address, and other information provided during registration.
-- **Usage Data:** Information automatically collected when you use our Products, including your IP address, device identifiers, and interaction data.
+- **Usage Data:** Information automatically collected when you use our Products, including your IP address, device type, and interaction data.
+- **Device Identifiers:** Including **Advertising ID (GAID)**, **Android ID**, and similar identifiers used for analytics, advertising, and fraud prevention purposes.
 - **Communication Data:** Data you provide when contacting us for support or other inquiries.
-- **Third-Party Data Collection:** Libraries and services integrated into our game may also collect data necessary for their own functionality.
+- **Third-Party Data Collection:** Libraries and services integrated into our game may also collect data necessary for their own functionality, including device identifiers.
 - **Discord Data:** We collect data associated with your Discord account when you authenticate on our Discord server.
 
 ---
 
 ## 5. How We Use Your Personal Data
 We use your Personal Data for the following purposes:
+
 - To provide and maintain our Products.
 - To improve and personalize your experience.
 - To communicate with you regarding updates, promotions, or important information.
@@ -46,6 +49,7 @@ We will retain your Personal Data, including your account information and record
 
 ## 7. Legal Basis for Data Processing
 We process your Personal Data based on one or more of the following legal grounds:
+
 - **Consent:** Where you have given clear consent.
 - **Legitimate Interests:** For purposes of improving our Products and ensuring their security.
 - **Legal Obligations:** Where required by law.
@@ -53,12 +57,13 @@ We process your Personal Data based on one or more of the following legal ground
 ---
 
 ## 8. Data Sharing and Transfers
-We do not sell your Personal Data. We may share your data with trusted third-party service providers who assist us in operating our Products, subject to confidentiality agreements. In cases where data is transferred overseas, we ensure that adequate safeguards are in place as required by applicable law.
+We do not sell your Personal Data. We may share your data with trusted third-party service providers who assist us in operating our Products, such as analytics and advertising SDKs (e.g., **GameAnalytics**, **AdColony**), subject to confidentiality agreements. In cases where data is transferred overseas, we ensure that adequate safeguards are in place as required by applicable law.
 
 ---
 
 ## 9. Your Rights
 Depending on your jurisdiction, you may have the following rights regarding your Personal Data:
+
 - **Right to correct or update your data.**
 - **Right to request deletion of your data.**
 - **Right to withdraw consent at any time** (this does not affect the lawfulness of processing before withdrawal).
